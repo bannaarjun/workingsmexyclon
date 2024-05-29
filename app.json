@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/telegrambots0/SmexyTxtLeecher",
+    "repository": "https://github.com/navedmohammad/smexyclon",
     "success_url": "https://t.me/SmexyStore",
     "stack": "container",
     "env": {
