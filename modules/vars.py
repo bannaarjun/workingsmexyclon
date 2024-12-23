@@ -1,7 +1,7 @@
 #𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](https://t.me/SmexyOP)
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 
-api_id = "22475741"
-api_hash = "1a217be71a0225e0a678af286c211f8a"
-bot_token = "7347353498:AAGgNzcVVGcEUoZSYAhghggmKpgX8_XUYvs"
+api_id = "25674058"
+api_hash = "14590fdad2caa6d0917d88504bc39b8d"
+bot_token = "7779994383:AAGCBLkcSktW1YBuR7DNui1vpLmKmMfZc9E"
 # Bot Username = "https://t.me/SmexyTxtLeechingBot"
