@@ -43,11 +43,11 @@ async def account_login(bot: Client, m: Message):
 𝐌𝐚𝐝𝐞 𝐁𝐲  : [Arjun Singh (@ArjunThakur77) !""", reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("✜ 𝐉𝐨𝐢𝐧 𝐔𝐩𝐃𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✜" ,url=f"https://t.me/update000321") ],
+                    InlineKeyboardButton("🎧" ,url=f"https://t.me/+Dhw6oglyO6s2Yjhl") ],
                     [
-                    InlineKeyboardButton("✜◆ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ◆✜" ,url="https://t.me/update000321") ],
+                    InlineKeyboardButton("𝐂𝐨𝐧𝐭𝐚𝐜𝐭" ,url="https://t.me/+Dhw6oglyO6s2Yjhl") ],
                     [
-                    InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/update000321") ]                               
+                    InlineKeyboardButton("do not DM🚫" ,url="https://t.me/arjunthakur77") ]                               
             ]))
 
 
@@ -61,7 +61,7 @@ async def restart_handler(_, m):
 
 @bot.on_message(filters.command(["SmexyOP"]))
 async def account_login(bot: Client, m: Message):
-    editable = await m.reply_text('**𝐇𝐞𝐲 [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](https://t.me/update000321) 𝙃𝙚𝙧𝙚🍷 \n\n 𝐓𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐀 𝐓𝐱𝐭 𝐅𝐢𝐥𝐞 𝐒𝐞𝐧𝐝 𝐇𝐞𝐫𝐞 ⏍**')
+    editable = await m.reply_text('**(https://t.me/arjunthakur77) 𝙃𝙚𝙧𝙚🍷 \n\n 𝐓𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐀 𝐓𝐱𝐭 𝐅𝐢𝐥𝐞 𝐒𝐞𝐧𝐝 𝐇𝐞𝐫𝐞 ⏍**')
     input: Message = await bot.listen(editable.chat.id)
     x = await input.download()
     await input.delete(True)
@@ -88,7 +88,7 @@ async def account_login(bot: Client, m: Message):
     raw_text = input0.text
     await input0.delete(True)
 
-    await editable.edit("𝐍𝐨𝐰 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐞𝐧𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐁𝐚𝐭𝐜𝐡 𝐍𝐚𝐦𝐞")
+    await editable.edit("कृपया आपके बैच का नाम भेजे 😊")
     input1: Message = await bot.listen(editable.chat.id)
     raw_text0 = input1.text
     await input1.delete(True)
@@ -118,12 +118,12 @@ async def account_login(bot: Client, m: Message):
     
     
 
-    await editable.edit("✏️ Now Enter A Caption to add caption on your uploaded file Otherwise send**   **`𝙎𝙢𝙚𝙭𝙮 ᥫ᭡`**")
+    await editable.edit("✏️ Now Enter A Caption to add caption on your uploaded file Otherwise send**   **`🫱🏻‍🫲🏼`**")
     input3: Message = await bot.listen(editable.chat.id)
     raw_text3 = input3.text
     await input3.delete(True)
     highlighter  = f"️ ⁪⁬⁮⁮⁮"
-    if raw_text3 == 'SmexyOP':
+    if raw_text3 == 'Uchiha':
         MR = highlighter 
     else:
         MR = raw_text3
@@ -180,8 +180,8 @@ async def account_login(bot: Client, m: Message):
 
             try:  
                 
-                cc = f'**𝐕𝐢𝐝_𝐢𝐝🎬➤ {str(count).zfill(3)}. {𝗻𝗮𝗺𝗲𝟭}{res}{MR}.mkv\n𝐁𝐚𝐭𝐜𝐡 ➤ {raw_text0} \n\n 🌟𝔻ᴏᴡɴʟᴏᴀᴅ 𝔹ʏ ✨ [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/SmexyOP)\n**'
-                cc1 = f'**𝐩𝐝𝐟_𝐢𝐝📁➤ {str(count).zfill(3)}. {𝗻𝗮𝗺𝗲𝟭}{MR}.pdf \n𝐁𝐚𝐭𝐜𝐡 ➤ {raw_text0} \n\n 🌟𝔻ᴏᴡɴʟᴏᴀᴅ 𝔹ʏ ✨ —»»  [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/SmexyOP)\n**'
+                cc = f'**𝐕𝐢𝐝_𝐢𝐝🎬➤ {str(count).zfill(3)}. {𝗻𝗮𝗺𝗲𝟭}{res}{MR}.mkv\n𝐁𝐚𝐭𝐜𝐡 ➤ {raw_text0} \n\n   🪔 (∆)\n**'
+                cc1 = f'**𝐩𝐝𝐟_𝐢𝐝📁➤ {str(count).zfill(3)}. {𝗻𝗮𝗺𝗲𝟭}{MR}.pdf \n𝐁𝐚𝐭𝐜𝐡 ➤ {raw_text0} \n\n #uchiha_clan (∆)\n**'
                 if "drive" in url:
                     try:
                         ka = await helper.download(url, name)
@@ -207,7 +207,7 @@ async def account_login(bot: Client, m: Message):
                         time.sleep(e.x)
                         continue
                 else:
-                    Show = f"**❊⟱𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »**\n\n**📝 𝐍𝐚𝐦𝐞 »** `{name}\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](http://t.me/SmexyOP)\n"
+                    Show = f"**❊⟱𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »**\n\n**📝 𝐍𝐚𝐦𝐞 »** `{name}\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n𝐌𝐚𝐝𝐞 𝐁𝐲  : Arjun Thakur(http://t.me/arjunthakur77)\n"
                     prog = await m.reply_text(Show)
                     res_file = await helper.download_video(url, cmd, name)
                     filename = res_file
@@ -224,7 +224,7 @@ async def account_login(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    await m.reply_text("**All done\n MUST JOIN [ 🇮🇳](https://t.me/update000321)**")
+    await m.reply_text("**All done\n चाहो तो  JOIN kr lo wrna koi baat nhi [ 🇮🇳](https://t.me/+Dhw6oglyO6s2Yjhl)**")
 
 
 bot.run()
