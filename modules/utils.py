@@ -66,7 +66,7 @@ def hrt(seconds, precision = 0):
 
 timer = Timer()
 
-# Powered By [𝙎𝙈𝙀𝙓𝙔 𝙎𝙏𝙊𝙍𝙀 🇮🇳](http://t.me/SmexyStore)
+# Powered By [ 🪔](π)
 async def progress_bar(current, total, reply, start):
     if timer.can_send():
         now = time.time()
