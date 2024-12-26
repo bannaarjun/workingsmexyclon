@@ -1,4 +1,4 @@
-#𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝙎𝙢𝙚𝙭𝙮 ᥫ᭡](https://t.me/SmexyOP)
+#𝐌𝐚𝐝𝐞 𝐁𝐲  : [Arju Thakur](https://t.me/arjunthakur77)
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 
 api_id = "25674058"
